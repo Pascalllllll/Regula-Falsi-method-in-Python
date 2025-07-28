@@ -16,11 +16,10 @@ $$
 
 ```text
 i        x1           x2           x3           f(x3)
-1        0.400000     0.500000     0.454545     -0.021387
-2        0.454545     0.500000     0.456521     -0.000423
-3        0.456521     0.500000     0.456562     -0.000008
+1        0.400000     0.500000     0.494982     0.000107
+2        0.494982     0.500000     0.495008     0.000000
 
-Root found at x = 0.456562
+Root found at x = 0.495008
 ```
 
 A graph will also be shown with the function curve and vertical line at the root approximation.
