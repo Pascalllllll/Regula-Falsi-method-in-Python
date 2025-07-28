@@ -74,7 +74,7 @@ A graph will also be shown with the function curve and vertical line at the root
 just copy the code below!
 
 
-```
+```python
 import matplotlib.pyplot as plt
 import numpy as np
 import math
