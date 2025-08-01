@@ -70,7 +70,7 @@ A graph will also be shown with the function curve and vertical line at the root
 
 ---
 
-just copy the code below 😊
+just copy the code below 😊👌
 
 
 ```python
