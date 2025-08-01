@@ -63,14 +63,14 @@ A graph will also be shown with the function curve and vertical line at the root
 
 ---
 
-### 📌 Notes
+### Notes
 
 * Make sure that `f(x1)` and `f(x2)` have opposite signs to guarantee the method works.
 * This script assumes you are using functions that are continuous in the interval $[x1, x2]$.
 
 ---
 
-just copy the code below!
+just copy the code below 😊
 
 
 ```python
