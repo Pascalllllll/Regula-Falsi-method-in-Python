@@ -12,7 +12,7 @@ $$
 x_3 = x_2 - f(x_2) \cdot \frac{x_1 - x_2}{f(x_1) - f(x_2)}
 $$
 
-### ✅ Example Output
+### Example Output
 
 ```text
 i        x1           x2           x3           f(x3)
